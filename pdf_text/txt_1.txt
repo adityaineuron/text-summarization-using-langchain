@@ -1,0 +1,44 @@
+Propulsion Module:
+
+The propulsion module will carry the lander and rover configuration
+until a 100 km lunar orbit. It is a box-like structure with one large
+solar panel mounted on one side and a large cylinder on top (the
+Intermodular Adapter Cone) that acts as a mounting structure for
+the lander.
+
+Lander:
+
+The lander is responsible for the soft landing on the Moon. It is also
+box-shaped, with four landing legs and four landing thrusters of 800
+newtons each. It will carry the rover and various scientific
+instruments to perform on-site analysis.
+
+The lander for Chandrayaan-3 will have only four throttle-able
+engines, unlike Vikram on Chandrayaan-2 which had five 800
+Newtons engines with a fifth one being centrally mounted with a
+fixed thrust. Additionally, the Chandrayaan-3 lander will be
+equipped with a Laser Doppler Velocimeter (LDV). The impact legs
+are stronger compared to Chandrayaan-2 and have increased
+instrumentation redundancy. ISRO is working on improving the
+structural rigidity and adding multiple contingency systems.
+
+Propulsion Module:
+Chandrayaan-3 Rover Overview:
+
+1. Six-wheeled design
+
+2. Weight of 26 kilograms (57 pounds)
+
+3. Range of 500 metres (1,600 ft)
+
+4. Dimensions : 917 millimetres (3.009 ft) x 750 millimetres (2.46
+ft) x 397 millimetres (1.302 ft)
+
+5. Scientific instruments, including cameras, spectrometers, and
+a drill
+
+6. Expected lifespan of one lunar day (14 Earth days)
+
+7. Communication with the landing and ground control teams in
+
+India

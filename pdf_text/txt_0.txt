@@ -1,0 +1,37 @@
+Chandrayaan-3
+
+Chandrayaan-3 is the third and most recent lunar Indian Space
+Research exploration mission under the Chandrayaan program. It
+consists of a lander named Vikram and a rover named Pragyan,
+similar to Chandrayaan-2, but does not have an orbiter. Its
+propulsion module behaves like a communication relay satellite.
+The propulsion module carries the lander and rover configuration
+until the spacecraft is in a 100 km lunar orbit.
+
+Following Chandrayaan-2, where a last-minute glitch in the landing
+guidance software led to the lander crashing after entering lunar
+orbit, another lunar mission was proposed.
+
+The launch of Chandrayaan-3 took place on July 14, 2023, at 2:35
+pm IST, and lunar injection of a 100 km circular polar orbit was
+completed successfully as part of phase one. The lander and rover
+are expected to land near the lunar south pole region on August 23,
+2023. The Chandrayaan-3 mission is a stepping stone towards
+ISRO’s future interplanetary missions.
+
+Objective
+ISRO has set three main objectives for the Chandrayaan-3 mission,
+which include:
+
+1. Getting a lander to land safely and softly on the surface of the
+moon
+
+2. Observing and demonstrating the rover’s loitering capabilities
+on the moon,
+
+3. on-site observation and conducting experiments on the
+materials available on the lunar surface to better understand
+the composition of the moon.
+
+Design
+Chandrayaan-3 comprises three main components:
